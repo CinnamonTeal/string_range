@@ -1,1 +1,1 @@
-I realized that the string range doesnt handle the "A".."BB" type of ranges well, so Im writing a small class to do it
+I realized that the string range doesn't handle the "A".."BB" type of ranges well, so I'm writing a small class to do it
